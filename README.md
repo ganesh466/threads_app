@@ -1,1 +1,2 @@
-Socio-Connect next.js app
+Socio-Connect next.js app 
+Deploy on Vercel
